@@ -1,60 +1,109 @@
-# PiP Button - Lightweight Picture-in-Picture Chrome Extension
+# 🎬 **PiP Button** – *The ~7KB Powerhouse for Picture-in-Picture Mode!*
 
-![PiP Button](https://img.shields.io/badge/Size-4KB-brightgreen)  
-![Version](https://img.shields.io/badge/Version-0.1.0-blue)  
-![License](https://img.shields.io/badge/License-Apache%202.0-orange)
+![Size](https://img.shields.io/badge/Size-4KB-brightgreen?color=23d160&label=Extension%20Size&style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Version](https://img.shields.io/github/v/release/naxl/PiP-Button?color=00d1b2&style=for-the-badge&logo=semantic-release&logoColor=white) ![License](https://img.shields.io/github/license/naxl/PiP-Button?color=ff3860&style=for-the-badge&logo=Open-Source-Initiative&logoColor=white) ![Stars](https://img.shields.io/github/stars/naxl/PiP-Button?color=ffdd57&style=for-the-badge&logo=star&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/naxl/PiP-Button?style=for-the-badge&color=00c1d4&logo=git&logoColor=white) ![Repo Release](https://img.shields.io/github/release-date/naxl/PiP-Button?color=7957d5&style=for-the-badge&logo=github)
 
-**PiP Button** is a simple and ultra-lightweight Chrome extension that lets you toggle Picture-in-Picture (PiP) mode for any video with just a click or an **Alt+P** keyboard shortcut. It’s designed to enhance your multitasking experience by allowing you to pop out any video into a floating window while browsing, working, or multitasking.
 
-## Key Features
+Say hello to **PiP Button** – your ultra-lightweight, blazing-fast Chrome extension that lets you toggle **Picture-in-Picture (PiP)** mode on any video with a single click or a slick keyboard shortcut! 🔥
 
-- **Instant PiP Access**: Easily toggle Picture-in-Picture mode for videos on any webpage.
-- **Super Lightweight**: At only **4 KB**, PiP Button is drastically smaller than other similar extensions (like Google’s own 19.4 KB extension), offering the same functionality.
-- **Simple to Use**: Activate PiP with just a click or the **Alt+P** keyboard shortcut.
-- **Optimized Performance**: Designed to use minimal resources without compromising functionality.
-- **Compatible with All Video Platforms**: Works seamlessly on all major video websites and HTML5 video players.
+> Pop out videos into a floating window and *watch while you work* like a true multitasking ninja 🥷.
 
-## 🔒 Privacy Policy
-
-**PiP Button** does **not collect, store, or share** any user data.
-
-- No personal data is gathered
-- No analytics or tracking
-- No network requests or remote code execution
-
-The extension runs entirely in your browser and interacts only with the active tab to toggle PiP mode for a video element.
-
-## Why Choose PiP Button?
-
-- **Bloat-Free**: Unlike the official Google extension, which weighs 19.4 KB, **PiP Button** is just **4 KB**, keeping it lean and efficient.
-- **Better Performance**: PiP Button does the same work, but faster and with fewer resources. No unnecessary bloat, just the essentials.
-- **Open-Source**: Free to use, modify, and distribute under the Apache 2.0 License. Contributions are welcome!
-- **Easy to Install**: Simply install the extension, and you’re ready to go. It doesn’t require complicated setups or permissions.
-
-## Installation
-
-1. Download and install the **PiP Button** extension from the Chrome Web Store, or  
-2. Clone this repository and load the extension locally in **Developer Mode** via `chrome://extensions/`.
-
-## How to Use
-
-- **Click** the PiP Button in the Chrome toolbar to activate Picture-in-Picture mode for the video on the current page.
-- **Shortcut**: Press **Alt+P** to quickly toggle PiP mode.
-- **Set Shortcut**: If not automatically set, go to `chrome://extensions/shortcuts`, locate **PiP Button**, and assign your preferred key combination (e.g., Alt+P).
-
-## License
-
-This project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0).
-
-## Contributing
-
-Feel free to fork the repository, create issues, or submit pull requests. All contributions are welcome!
-
-### 📌 Links
-
-- 🔗 [GitHub Repository](https://github.com/naxl/PiP-Button)
-- ✨ [Star This Repo](https://github.com/naxl/PiP-Button/stargazers)
-- 🐞 [Report Issues](https://github.com/naxl/PiP-Button/issues)
-- 📦 [Latest Release](https://github.com/naxl/PiP-Button/releases)
-- 👨‍💻 Created by [Nihal Thakur](https://github.com/naxl).
 ---
+
+## 🚀 **Why PiP Button?**
+| ✅ | Feature |
+|----|---------|
+| ⚡ **Instant Access** | One-click or **Alt+P** to enable PiP on *any* webpage video |
+| 💾 **Super Lightweight** | Just **~7 KB** – over 2.5x smaller than Google's own 19.4 KB extension |
+| 🧠 **Minimal & Efficient** | Built for speed, simplicity, and zero bloat |
+| 🖥️ **Universal Compatibility** | Works on all major video sites & HTML5 players |
+| 🔐 **Private & Secure** | No tracking, no data collection, no BS |
+
+---
+
+## 🎯 **Key Features**
+
+- 🖱️ **One-Click Activation** – Just click the PiP icon in the toolbar!
+- ⌨️ **Keyboard Shortcut** – Hit **Alt+P** to toggle PiP instantly.
+- 🧼 **Clean & Simple** – No clutter, no distractions—just clean code and clear function.
+- 🧩 **Works Everywhere** – From YouTube to niche HTML5 players, PiP Button handles them all.
+- 🌿 **Eco-Friendly (in Code Terms)** – Runs lean with zero unnecessary permissions.
+
+---
+
+## 🔒 **Privacy First**
+
+**PiP Button** respects your privacy—full stop.
+
+- 🚫 No personal data collection  
+- 🕵️ No analytics or tracking  
+- 🌐 No external requests or third-party code  
+- 🧠 100% local execution in your browser  
+
+Your data stays yours. Always.
+
+---
+
+## ⚖️ **Why Not Google's Official PiP Extension?**
+
+| 🏆 | **PiP Button** | **Google’s PiP** |
+|----|----------------|------------------|
+| 📦 Size | **~7 KB** | 19.4 KB |
+| 🛠️ Performance | Optimized & snappy | Standard |
+| 🔐 Privacy | No data usage | N/A |
+| 💻 Open-Source | ✅ | ❌ |
+
+Why carry a heavy bag when all you need fits in your pocket? 🎒💡
+
+---
+
+## 🧰 **Installation**
+
+### 🔗 **Quick & Easy Options**
+1. 👉 Install from the [**Chrome Web Store**](https://chromewebstore.google.com/detail/pip-button/kgphnhobjfmhlboikldfajonheanjnef)  
+2. 🛠️ Clone & load locally:
+   - Clone this repo  
+   - Navigate to `chrome://extensions/`  
+   - Enable **Developer Mode**  
+   - Click **Load Unpacked** and select the folder
+
+---
+
+## 🎮 **How to Use**
+
+- 🎯 **Click the toolbar icon** to activate PiP for the current page's video
+- ⌨️ **Press Alt+P** to toggle PiP instantly
+- 🔧 **Customize shortcut**: Go to `chrome://extensions/shortcuts` and assign your own key combo
+
+---
+
+## 📜 **License**
+
+Licensed under the [**Apache 2.0 License**](https://opensource.org/licenses/Apache-2.0) – free to use, modify, and share. 💖
+
+---
+
+## 🤝 **Contributing**
+
+Have a cool idea? Found a bug?  
+We welcome all contributions!  
+
+- 🍴 Fork it  
+- ✅ Create a branch  
+- 🛠️ Make your changes  
+- 📩 Submit a PR!
+
+Let’s make PiP Button even better together.
+
+---
+
+## 🔗 **Links & Resources**
+
+- 📂 [**GitHub Repository**](https://github.com/naxl/PiP-Button)  
+- ⭐ [**Star This Project**](https://github.com/naxl/PiP-Button/stargazers)  
+- 🐞 [**Report Issues**](https://github.com/naxl/PiP-Button/issues)  
+- 🚀 [**Latest Release**](https://github.com/naxl/PiP-Button/releases)  
+- 👨‍💻 Created with ❤️ by [**Nihal Thakur**](https://github.com/naxl)
+
+---
+
+🎉 **Power up your browsing with PiP Button – because multitasking should look as smooth as it feels.** 🎉
